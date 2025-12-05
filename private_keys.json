@@ -1,0 +1,10 @@
+{
+    "worker": {
+        "identity_key": "a69acd8802c242315ee28b483d3a449608c4c463b314fcdb2f47726471733fbf",
+        "wallet_key": "eNIJ3+WeWyxCAnXvIKocUfUsfR6rht5eW4URrGRm30Q="
+    },
+    "coordinator": {
+        "identity_key": "56450df8c4b331576dffd2dd7c63c0544e0031dd4b29900b9c544d15eb6c84c9",
+        "wallet_key": "Eq8mC5mf0bfFYldvmEseo7BYK0y+oONT18zg2VvBOLI="
+    }
+}
