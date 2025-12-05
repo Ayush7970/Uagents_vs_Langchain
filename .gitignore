@@ -1,0 +1,47 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Build / Packaging
+build/
+dist/
+*.egg-info/
+
+# Byte-compiled / Cached
+*.sqlite
+*.db
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+.settings/
+
+# -------------------------
+# OS Generated
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Project Specific (Optional)
+# -------------------------
+logs/
+.cache/
+.env
+.secrets
